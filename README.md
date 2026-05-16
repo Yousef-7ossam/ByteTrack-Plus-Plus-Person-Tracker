@@ -113,7 +113,3 @@ When enabled, the system computes steering commands based on:
 Commands are displayed on the HUD and printed to stdout.
 
 ---
-
-## License
-
-MIT
