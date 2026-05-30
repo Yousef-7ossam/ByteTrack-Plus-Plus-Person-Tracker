@@ -47,7 +47,7 @@ pip install opencv-python numpy onnxruntime
 
 1. **Clone the repo**
    ```bash
-   git clone https://github.com/your-username/bytetrack-plus-plus.git
+   https://github.com/Yousef-7ossam/ByteTrack-Plus-Plus-Person-Tracker.git
    cd bytetrack-plus-plus
    ```
 
